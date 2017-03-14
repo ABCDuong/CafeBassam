@@ -860,10 +860,23 @@ h6.btn-outline-dark:hover {
     margin-bottom: -100px;
   }
 
+  #press .press-btn {
+    margin-bottom: -35%;
+    margin-left: 15%;
+    position: relative;
+    width: 65%;
+  }
 
   .hr-divider {
-    margin-top: -50px;
-    margin-left: 75px;
+    margin-left: 15%;
+    position: relative;
+    margin-bottom: 65px;
+    width: 65%;
+  }
+
+  #press .date-div {
+    margin-left: 18%;
+    width: 100%;
   }
 
   #press h2 {
@@ -903,12 +916,13 @@ h6.btn-outline-dark:hover {
   #press p {
     width: 90%;
     font-size: 1.2em;
-    margin-top: -15%;
+    margin-top: 5px;
   }
 
   #press .container {
     margin-left: 3%;
     padding: 0 5%;
+    margin-bottom: 5px;
   }
 
 
